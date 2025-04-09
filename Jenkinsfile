@@ -1,5 +1,5 @@
 @Library('jenkins-shared-library') _
-commonBuild()
+
 pipeline {
   agent any
 
